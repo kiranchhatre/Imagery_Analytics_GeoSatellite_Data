@@ -1,0 +1,5 @@
+Virtual env: source ~/Virtualenv/vegetation/bin/activate
+
+dir: /Users/kiranchhatre/SixthSense/main/app_ears/src
+
+
